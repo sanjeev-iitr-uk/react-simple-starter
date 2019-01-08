@@ -5,6 +5,7 @@ export default class App extends Component {
     return (
       <div>New change by version_1</div>
       <div>New line by version_1</div>
+      <div>New change by version_4</div>
     );
   }
 }
